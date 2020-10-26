@@ -1,4 +1,11 @@
 {
-    "nome": "PREFEITURA MUNICIPAL DE SANTA LUZIA DO NORTE",
-    "cnpj": "12200317000150"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }

@@ -2,16 +2,19 @@
     "entidades": [
         {
             
+            "cnpj": "64590575000194",
             "nome": "PREFEITURA MUNICIPAL DE TESTE",
-            "cnpj": "64590575000194"
+            "codigo_ua": "0000"
         },
         {
+            "cnpj": "12264222000109",
             "nome": "PREFEITURA MUNICIPAL DE SÃO MIGUEL DOS CAMPOS",
-            "cnpj": "12264222000109"
+            "codigo_ua": "0000"
         },
         {
+            "cnpj": "12200317000150",
             "nome": "PREFEITURA MUNICIPAL DE SANTA LUZIA DO NORTE",
-            "cnpj": "12200317000150"
+            "codigo_ua": "0000"
         }
         
     ]

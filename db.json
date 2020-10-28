@@ -14,6 +14,12 @@
             "codigo_ua": "0000"
         },
         {
+            "cnpj": "12251286000167",
+            "nome": "PREFEITURA MUNICIPAL DE MARAVILHA",
+            "imagem": "assets/images/brasao_maravilha.png",
+            "codigo_ua": "0000"
+        },
+        {
             "cnpj": "12200317000150",
             "nome": "PREFEITURA MUNICIPAL DE SANTA LUZIA DO NORTE",
             "imagem": "assets/images/brasao_santa.png",

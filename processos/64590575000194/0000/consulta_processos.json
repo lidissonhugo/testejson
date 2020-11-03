@@ -1,0 +1,60 @@
+{
+    "entidades": [
+        {
+            
+            "cnpj": "64590575000194",
+            "nome": "PREFEITURA MUNICIPAL DE TESTE",
+            "imagem": "assets/images/brasao_teste.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12264222000109",
+            "nome": "PREFEITURA MUNICIPAL DE SÃO MIGUEL DOS CAMPOS",
+            "imagem": "assets/images/brasao_campos.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12251286000167",
+            "nome": "PREFEITURA MUNICIPAL DE MARAVILHA",
+            "imagem": "assets/images/brasao_maravilha.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12350153000148",
+            "nome": "PREFEITURA MUNICIPAL DE ÁGUA BRANCA",
+            "imagem": "assets/images/brasao_branca.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12225546000120",
+            "nome": "PREFEITURA MUNICIPAL DE PIRANHAS",
+            "imagem": "assets/images/brasao_piranhas.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12224895000127",
+            "nome": "PREFEITURA MUNICIPAL DE DELMIRO GOUVEIA",
+            "imagem": "assets/images/brasao_delmiro.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "35634435000172",
+            "nome": "PREFEITURA MUNICIPAL DE PARICONHA",
+            "imagem": "assets/images/brasao_pariconha.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12264230000147",
+            "nome": "PREFEITURA MUNICIPAL DE CORURIPE",
+            "imagem": "assets/images/brasao_coruripe.png",
+            "codigo_ua": "0000"
+        },
+        {
+            "cnpj": "12200317000150",
+            "nome": "PREFEITURA MUNICIPAL DE SANTA LUZIA DO NORTE",
+            "imagem": "assets/images/brasao_santa.png",
+            "codigo_ua": "0000"
+        }
+        
+    ]
+}
